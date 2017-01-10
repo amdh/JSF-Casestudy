@@ -1,0 +1,27 @@
+jsf 2.2 : latest version 
+
+jsp ? xhtml ?
+
+spring for IoC
+
+hibernate 3
+
+servlet 3.0 for jsf2.2  , jsp2.2 , jstl1.2 : java EE6
+
+J2EE 1.3: Servlet 2.3, JSP 1.2. JSTL 1.0, ...
+
+J2EE 1.4: Servlet 2.4, JSP 2.0, JSTL 1.1, ...
+
+Java EE 1.5: Servlet 2.5, JSP 2.1, JSTL 1.2, ..
+
+tomcat 7 for jsf 2.2.
+
+java 7 for tomcat 7
+
+tables:
+user  : userid, username , password
+uderdetails : userid (fk) , userfirstname , userlastname , email , gender ,
+				address , phno , dob , guardian info(firstname , lastname)
+address:  userid , street1, street2 , country , state
+account : userid , accountid , balance , transaction date , transaction type , windrowamt , depositamt
+
